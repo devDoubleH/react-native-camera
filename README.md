@@ -1,4 +1,4 @@
 # react-native-camera
 
 
-Just a camera test app!
+Just a camera (qr code scanner) test app!
